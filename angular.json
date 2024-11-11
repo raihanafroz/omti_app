@@ -40,7 +40,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "src/js/public/assets/js.js"
+              
             ]
           },
           "configurations": {
